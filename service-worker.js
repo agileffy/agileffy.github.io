@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cd99d8e7ba51fe047266283bca704cc2.js"
+  "/precache-manifest.809faf13cb435bc8cb8faaa175519b61.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Agileffy"});
