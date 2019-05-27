@@ -1,0 +1,1 @@
+.message{margin:5px;padding:5px}.status{text-align:right;font-size:50%}body,html{overflow:hidden}#Content{height:100vh}#MessagePile{overflow-y:auto;height:70vh}#Input{max-height:50vh}#Input,#Typer{overflow-y:auto}#Typer{position:absolute;bottom:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%);display:block;border:1px solid #000;min-height:20vh}
